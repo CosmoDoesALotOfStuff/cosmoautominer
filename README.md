@@ -1,5 +1,6 @@
-Check releases for download! Latest Version: 2.0
+Check releases for download!
+Latest Version: 2.0
 Requirements:
-Fabric 1.21.11
-Latest version for Fabric API 1.21.11
-Works with any launcher!
+Game Version: Fabric 1.21.11
+Mods: Fabric API
+Any Minecraft Launcher/client!
